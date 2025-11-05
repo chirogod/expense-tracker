@@ -26,7 +26,7 @@ Para usar la aplicacion, seguir los siuientes pasos:
 
 
 ##Comandos
-- add --descripcion "descripcion" --amount [amount] --month [month] --category [category]: Anade una nueva expensa.
+- add --description "descripcion" --amount [amount] --month [month] --category [category]: Anade una nueva expensa.
 - delete --id[id]: Elimina la tarea con el id dado.
 - list: Lista todas las expensas.
 - summary: Resumen del total de las expensas
